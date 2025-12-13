@@ -1,10 +1,10 @@
 #chrW() function
 
 
-#Polish characters table
+##Polish characters table
 
 |Number|Uppercase Letter|Number|Lowercase Letter|
-|:---:|:---:|:---:|:---:|
+|:-:|:-:|:-:|:-:|
 |211|Ó|243|ó|
 |260|Ą|261|ą|
 |262|Ć|263|ć|
@@ -15,8 +15,9 @@
 |379|Ż|380|ż|
 
 
-VBA Code
-'''
+###VBA Code
+
+'''Bash
 Option Explicit
 
 Sub test()
