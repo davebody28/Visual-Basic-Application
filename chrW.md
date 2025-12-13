@@ -1,7 +1,7 @@
-#chrW() function
+# chrW() function
 
 
-##Polish characters table
+## Polish characters table
 
 |Number|Uppercase Letter|Number|Lowercase Letter|
 |:-:|:-:|:-:|:-:|
@@ -15,9 +15,9 @@
 |379|Ż|380|ż|
 
 
-###VBA Code
+### VBA Code
 
-'''Bash
+''' Bash
 Option Explicit
 
 Sub test()
