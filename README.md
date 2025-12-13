@@ -1,7 +1,13 @@
 # Visual-Basic-Application
-VBA Projects and necessary infos for everyday use
+VBA Projects and necessary infos for everyday use.
+I'll don't safe *.vba files instead *.md (MarkDown). 
 
-1. [Option Explicit](Option-Explicit.md)
-2. [Option Base 1](Option-Base.md)
-3. [Function chrW](chrW.md)
-4. [Sub email](projects/sub-email.md)
+## Basics
+- [Option Explicit](basics/Option-Explicit.md)
+- [Option Base 1](basics/Option-Base.md)
+
+## Functions
+- [Function chrW](functinos/chrW.md)
+
+## Subs/Projects
+- [Sub email](projects/sub-email.md)

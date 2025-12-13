@@ -20,7 +20,7 @@
 ``` Bash
 Option Explicit
 
-Sub test()
+Sub charw_loop()
     Dim x As Integer
     
     Cells(1, 1).Select
