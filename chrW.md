@@ -17,7 +17,7 @@
 
 ### VBA Code
 
-''' Bash
+``` Bash
 Option Explicit
 
 Sub test()
@@ -31,4 +31,4 @@ Sub test()
         ActiveCell.Offset(1, -1).Activate
     Next x
 End Sub
-'''
+```
