@@ -1,6 +1,6 @@
-# Sub email template
+# eMail template
 
-v1
+Example 1
 ``` vba
 Sub Email_Reminder()
     Dim output0, output1, output2 As String
@@ -53,7 +53,7 @@ Sub Email_Reminder()
 End Sub
 ```
 
-v2
+Example 2
 ``` vba
 Option Explicit
 
