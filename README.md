@@ -9,5 +9,6 @@ I'll don't safe *.vba files instead *.md (MarkDown).
 ## Functions
 - [Function chrW](functinos/chrW.md)
 
-## Subs/Projects
-- [Sub email](projects/sub-email.md)
+## Projects
+- [email tempalte](projects/email-template.md)
+- [Workbook_SheetChange](projects/Workbook_SheetChange)
