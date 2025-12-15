@@ -17,7 +17,7 @@
 
 ### VBA Code
 
-``` Bash
+``` vba
 Option Explicit
 
 Sub charw_loop()
