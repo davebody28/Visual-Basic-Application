@@ -7,7 +7,7 @@ I'll don't safe *.vba files instead *.md (MarkDown).
 - [Option Base 1](basics/Option-Base.md)
 
 ## Functions
-- [Function chrW](functinos/chrW.md)
+- [Function chrW](functions/chrW.md)
 
 ## Projects
 - [email tempalte](projects/email-template.md)
