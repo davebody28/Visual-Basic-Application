@@ -46,6 +46,7 @@ Sub Email_Reminder()
             & output0 & output1 & output2
         .ReadReceiptRequested = False
         .display
+        '.send
     End With
     
     Set outlookMail = Nothing
@@ -75,7 +76,7 @@ Sub SendeMail(actualrow As Integer, newproject As Boolean)
     
     With olMail
         .to = ""
-        .CC = ""
+        .cc = ""
         .bcc = ""
         .Subject = "Zlecenie detal: " & Cells(actualrow, 1)
         .HTMLBody = "<font style=""font-family: Exo;"" />" _
