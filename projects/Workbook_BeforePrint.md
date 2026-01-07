@@ -64,3 +64,11 @@ Jest:
 * stabilna
 * nie do obejścia
 * audytor-friendly 😉
+
+
+## Real life exaple
+```
+Private Sub Workbook_BeforePrint(Cancel As Boolean)
+    MsgBox "Uwaga! Musisz jeszcze da" & ChrW(263) & " zna" & ChrW(263) & " zespo" & ChrW(322) & "owi cyfryzacji o tym, " & ChrW(380) & "e trzeba zaktualizowa" & ChrW(263) & " ten plik w cyforwej produkcji", vbExclamation, "Nie zapomnij powiadomi" & ChrW(263) & " o aktualizacji"
+End Sub
+```
