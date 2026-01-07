@@ -55,9 +55,7 @@ End Sub
 
 I przypinasz to pod przycisk.
 
-Moja rekomendacja (bez lania wody)
-
-👉 Bierz OPCJĘ 1 – Workbook_BeforePrint
+👉 Moja rekomendacja bierz OPCJĘ 1 – Workbook_BeforePrint
 
 Jest:
 * czysta
