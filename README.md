@@ -13,3 +13,4 @@ I'll don't safe *.vba files instead *.md (MarkDown).
 - [email tempalte](projects/email-template.md)
 - [Workbook_SheetChange](projects/Workbook_SheetChange.md)
 - [Workbook_BeforePrint](projects/Workbook_BeforePrint.md)
+- [Workbook_BeforeSave](projects/Workbook_BeforeSave.md)
