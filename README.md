@@ -1,6 +1,6 @@
 # Visual-Basic-Application
 VBA Projects and necessary infos for everyday use.
-Safed as *.md (MarkDown) files instead of *.vb
+Safed as *.md (MarkDown) files instead of *.vb for better description purposes. 
 
 ## Basics
 - [Option Explicit](basics/Option-Explicit.md)
