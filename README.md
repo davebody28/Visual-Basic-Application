@@ -8,6 +8,7 @@ I'll don't safe *.vba files instead *.md (MarkDown).
 
 ## Functions
 - [Function chrW](functions/chrW.md)
+- [ALT Codes](functions/alt-codes.md)
 
 ## Projects
 - [email tempalte](projects/email-template.md)
